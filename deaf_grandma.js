@@ -17,3 +17,5 @@ function deafGrandma() {
 
 
 deafGrandma();
+
+// neeed window.prompt to sucessfuly use user inputs
